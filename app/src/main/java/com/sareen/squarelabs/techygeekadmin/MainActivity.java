@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        publish_button = (Button)findViewById(R.id.publish_button);
+        publish_button = (Button)findViewById(R.id.publish_button_mobile);
 
         publish_button.setOnClickListener(new PublishButtonClickListener(this));
     }

@@ -7,8 +7,8 @@
     tools:context="com.sareen.squarelabs.techygeekadmin.MainActivity">
 
     <Button
-        android:id="@+id/publish_button"
+        android:id="@+id/publish_button_mobile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Publish posts"/>
+        android:text="Publish Mobile posts"/>
 </LinearLayout>
